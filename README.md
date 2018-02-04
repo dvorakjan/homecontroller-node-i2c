@@ -4,4 +4,4 @@ Low-level node of HomeController platform based on Arduino which can be controll
   * 8ch for DIN relays
   * 12ch for DIN relays (PCB below)
   
- <img width="400" alt="8ch using relay board" src="https://github.com/dvorakjan/homecontroller-node-i2c/blob/master/hardware/12ch-din-relays/12ch-hc-node-i2c.png" />
+ <img height="300" alt="8ch using relay board" src="https://github.com/dvorakjan/homecontroller-node-i2c/blob/master/hardware/12ch-din-relays/12ch-hc-node-i2c.png" /><img height="300" alt="8ch using relay board" src="https://github.com/dvorakjan/homecontroller-node-i2c/blob/master/hardware/12ch-din-relays/12ch%20photo.jpg" />
